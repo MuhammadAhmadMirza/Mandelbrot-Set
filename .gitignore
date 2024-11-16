@@ -1,0 +1,7 @@
+dist/
+assets/Mandelbrot Set.docx
+src/Mandelbrot Set OTV/__pycache__/
+src/Mandelbrot Set OTV/modules/__pycache__/
+src/Mandelbrot Set OTV/assets/fractal/
+src/Mandelbrot Set zooming/__pycache__/
+src/Mandelbrot Set zooming/modules/.vscode/
