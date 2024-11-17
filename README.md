@@ -2,6 +2,8 @@
 
 This project allows you to explore the Mandelbrot set through different visualization modes. You can generate static images, view an orbit trap visualization, or zoom into the fractal for more detail interactively.
 
+![Demo](assets/demo.gif)
+
 ## Features
 
 1. **Render and Save Image**:
